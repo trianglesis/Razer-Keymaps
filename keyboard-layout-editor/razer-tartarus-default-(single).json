@@ -1,7 +1,7 @@
 [
   {
     "backcolor": "#fafafa",
-    "name": "Razer Tartarus default (two-keymaps)",
+    "name": "Razer Tartarus default (single)",
     "author": "trianglesis",
     "notes": "https://www.razer.com/gaming-keypads/razer-tartarus-pro\n",
     "radii": "20px",
@@ -45,38 +45,11 @@
       "w": 1.75,
       "h": 1.75
     },
-    "05\n\n\n\n\n\n\n\n\n5",
-    {
-      "x": 7,
-      "w": 1.75,
-      "h": 1.75
-    },
-    "02\n\n\n\n\n\n\n\n\n2",
-    {
-      "w": 1.75,
-      "h": 1.75
-    },
-    "03\n\n\n\n\n\n\n\n\n3",
-    {
-      "w": 1.75,
-      "h": 1.75
-    },
-    "04\n\n\n\n\n\n\n\n\n4",
-    {
-      "w": 1.75,
-      "h": 1.75
-    },
     "05\n\n\n\n\n\n\n\n\n5"
   ],
   [
     {
       "y": -0.5,
-      "w": 1.75,
-      "h": 1.75
-    },
-    "01\n\n\n\n\n\n\n\n\n1",
-    {
-      "x": 12.25,
       "w": 1.75,
       "h": 1.75
     },
@@ -118,29 +91,6 @@
       "w": 1.75,
       "h": 1.75
     },
-    "10\n\n\n\n\n\n\n\n\nR",
-    {
-      "x": 7,
-      "w": 1.75,
-      "h": 1.75
-    },
-    "06\n\n\n\n\n\n\n\n\nQ",
-    {
-      "t": "#877b7b\n\n\n#000000\n\n\n\n\n\n#000000",
-      "w": 1.75,
-      "h": 1.75
-    },
-    "08\n\n\nW\n\n\n\n\n\n<i class='fa fa-chevron-up'></i>",
-    {
-      "t": "#877b7b\n\n\n\n\n\n\n\n\n#000000",
-      "w": 1.75,
-      "h": 1.75
-    },
-    "09\n\n\n\n\n\n\n\n\nE",
-    {
-      "w": 1.75,
-      "h": 1.75
-    },
     "10\n\n\n\n\n\n\n\n\nR"
   ],
   [
@@ -163,42 +113,12 @@
       "w": 1.75,
       "h": 1.75
     },
-    "06\n\n\n\n\n\n\n\n\n\ntab",
-    {
-      "x": 12.25,
-      "w": 1.75,
-      "h": 1.75
-    },
     "06\n\n\n\n\n\n\n\n\n\ntab"
   ],
   [
     {
       "y": 0.25,
       "x": 1.75,
-      "t": "#877b7b\n\n\n#000000\n\n\n\n\n\n#000000",
-      "w": 1.75,
-      "h": 1.75
-    },
-    "12\n\n\nA\n\n\n\n\n\n<i class='fa fa-chevron-left'></i>",
-    {
-      "w": 1.75,
-      "h": 1.75,
-      "n": true
-    },
-    "13\n\n\nS\n\n\n\n\n\n<i class='fa fa-chevron-down'></i>",
-    {
-      "w": 1.75,
-      "h": 1.75
-    },
-    "14\n\n\nD\n\n\n\n\n\n<i class='fa fa-chevron-right'></i>",
-    {
-      "t": "#877b7b\n\n\n\n\n\n\n\n\n#000000",
-      "w": 1.75,
-      "h": 1.75
-    },
-    "15\n\n\n\n\n\n\n\n\nF",
-    {
-      "x": 7,
       "t": "#877b7b\n\n\n#000000\n\n\n\n\n\n#000000",
       "w": 1.75,
       "h": 1.75
@@ -236,12 +156,6 @@
       "w": 1.5,
       "d": true
     },
-    "<i class='fa fa-minus'></i>\n\n\n\nKeymap 1",
-    {
-      "x": 12.5,
-      "w": 1.5,
-      "d": true
-    },
     "<i class='fa fa-minus'></i>\n\n\n\nKeymap 1"
   ],
   [
@@ -268,12 +182,6 @@
       "w": 1.75,
       "h": 1.75
     },
-    "11\n\n\n\n\n\n\n\n\n\ncaps",
-    {
-      "x": 12.25,
-      "w": 1.75,
-      "h": 1.75
-    },
     "11\n\n\n\n\n\n\n\n\n\ncaps"
   ],
   [
@@ -288,12 +196,6 @@
       "fa": [
         9
       ],
-      "w": 1.5,
-      "d": true
-    },
-    "<i class='fa fa-minus'></i>\n\n\n\nKeymap 2",
-    {
-      "x": 12.5,
       "w": 1.5,
       "d": true
     },
@@ -320,22 +222,6 @@
         0,
         9
       ],
-      "w": 1.75,
-      "h": 1.75
-    },
-    "17\n\n\n\n\n\n\n\n\nZ",
-    {
-      "w": 1.75,
-      "h": 1.75
-    },
-    "18\n\n\n\n\n\n\n\n\nX",
-    {
-      "w": 1.75,
-      "h": 1.75
-    },
-    "19\n\n\n\n\n\n\n\n\nC",
-    {
-      "x": 8.75,
       "w": 1.75,
       "h": 1.75
     },
@@ -380,23 +266,6 @@
       "h": 2,
       "d": true
     },
-    "<i class='fa fa-angle-double-up'></i>\n<i class='fa fa-angle-double-down'></i>\n\n\nwheel\n\n<i class='fa fa-circle'></i>",
-    {
-      "x": 13,
-      "c": "#cccccc",
-      "g": true,
-      "a": 7,
-      "h": 2
-    },
-    "",
-    {
-      "x": -1,
-      "c": "#e1dbd1",
-      "g": false,
-      "a": 5,
-      "h": 2,
-      "d": true
-    },
     "<i class='fa fa-angle-double-up'></i>\n<i class='fa fa-angle-double-down'></i>\n\n\nwheel\n\n<i class='fa fa-circle'></i>"
   ],
   [
@@ -413,44 +282,6 @@
         0,
         0,
         9,
-        0,
-        0,
-        0,
-        9
-      ],
-      "w": 1.75,
-      "h": 1.75
-    },
-    "16\n\n\n\n\n\n\n\n\n\nshift",
-    {
-      "x": 7.5,
-      "c": "#cccccc",
-      "t": "#1d9cb3",
-      "sm": "",
-      "a": 5,
-      "f": 3,
-      "fa": [
-        9
-      ],
-      "w": 1.5,
-      "d": true
-    },
-    "<i class='fa fa-minus'></i>\n\n\n\nKeymap 3",
-    {
-      "x": 3.25,
-      "c": "#e1dbd1",
-      "t": "#877b7b\n\n\n\n\n\n\n\n\n\n#000000",
-      "sm": "cherry",
-      "a": 4,
-      "f": 5,
-      "fa": [
-        6,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
         0,
         0,
         0,
@@ -494,21 +325,6 @@
       "g": false,
       "d": true
     },
-    "<i class='fa fa-arrow-up'></i>",
-    {
-      "x": 12.5,
-      "c": "#c5c7ca",
-      "g": true,
-      "w": 2,
-      "h": 2
-    },
-    "",
-    {
-      "x": -1.5,
-      "c": "#aca693",
-      "g": false,
-      "d": true
-    },
     "<i class='fa fa-arrow-up'></i>"
   ],
   [
@@ -521,42 +337,12 @@
     {
       "d": true
     },
-    "<i class='fa fa-arrow-right'></i>",
-    {
-      "x": 12,
-      "d": true
-    },
-    "<i class='fa fa-arrow-left'></i>",
-    {
-      "d": true
-    },
     "<i class='fa fa-arrow-right'></i>"
   ],
   [
     {
       "y": -0.5,
       "x": 9.5,
-      "c": "#c5c7ca",
-      "f": 5,
-      "fa": [
-        7
-      ],
-      "w": 0.75,
-      "h": 0.75
-    },
-    "<i class='fa fa-circle-o'></i>",
-    {
-      "x": 1,
-      "c": "#aca693",
-      "f": 3,
-      "fa": [
-        9
-      ],
-      "d": true
-    },
-    "<i class='fa fa-arrow-down'></i>",
-    {
-      "x": 11.25,
       "c": "#c5c7ca",
       "f": 5,
       "fa": [
@@ -599,16 +385,6 @@
         0,
         9
       ],
-      "w": 2.5,
-      "h": 1.75,
-      "w2": 3
-    },
-    "20\n\n\n\n\n\n\n\n\n\nspace"
-  ],
-  [
-    {
-      "y": 2.75,
-      "x": 18.5,
       "w": 2.5,
       "h": 1.75,
       "w2": 3
