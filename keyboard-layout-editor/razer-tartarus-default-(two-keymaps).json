@@ -225,24 +225,25 @@
   [
     {
       "y": -0.75,
-      "x": 9.25,
+      "x": 8.75,
       "c": "#cccccc",
       "t": "#ff8a00",
       "a": 5,
       "f": 3,
       "fa": [
-        9
+        9,
+        6
       ],
-      "w": 1.5,
+      "w": 2,
       "d": true
     },
-    "<i class='fa fa-minus'></i>\n\n\n\nKeymap 1",
+    "<i class='fa fa-minus'></i>\nKeymap 1",
     {
-      "x": 12.5,
-      "w": 1.5,
+      "x": 12,
+      "w": 2,
       "d": true
     },
-    "<i class='fa fa-minus'></i>\n\n\n\nKeymap 1"
+    "<i class='fa fa-minus'></i>\nKeymap 1"
   ],
   [
     {
@@ -254,7 +255,7 @@
       "f": 5,
       "fa": [
         6,
-        0,
+        6,
         0,
         0,
         0,
@@ -279,25 +280,25 @@
   [
     {
       "y": -0.25,
-      "x": 9.25,
+      "x": 8.75,
       "c": "#cccccc",
       "t": "#45d95f",
-      "sm": "",
       "a": 5,
       "f": 3,
       "fa": [
-        9
+        9,
+        6
       ],
-      "w": 1.5,
+      "w": 2,
       "d": true
     },
-    "<i class='fa fa-minus'></i>\n\n\n\nKeymap 2",
+    "<i class='fa fa-minus'></i>\nKeymap 2",
     {
-      "x": 12.5,
-      "w": 1.5,
+      "x": 12,
+      "w": 2,
       "d": true
     },
-    "<i class='fa fa-minus'></i>\n\n\n\nKeymap 2"
+    "<i class='fa fa-minus'></i>\nKeymap 2"
   ],
   [
     {
@@ -305,12 +306,11 @@
       "x": 1.75,
       "c": "#e1dbd1",
       "t": "#877b7b\n\n\n\n\n\n\n\n\n#000000",
-      "sm": "cherry",
       "a": 4,
       "f": 5,
       "fa": [
         6,
-        0,
+        6,
         0,
         0,
         0,
@@ -423,29 +423,28 @@
     },
     "16\n\n\n\n\n\n\n\n\n\nshift",
     {
-      "x": 7.5,
+      "x": 7,
       "c": "#cccccc",
       "t": "#1d9cb3",
-      "sm": "",
       "a": 5,
       "f": 3,
       "fa": [
-        9
+        9,
+        6
       ],
-      "w": 1.5,
+      "w": 2,
       "d": true
     },
-    "<i class='fa fa-minus'></i>\n\n\n\nKeymap 3",
+    "<i class='fa fa-minus'></i>\nKeymap 3",
     {
       "x": 3.25,
       "c": "#e1dbd1",
       "t": "#877b7b\n\n\n\n\n\n\n\n\n\n#000000",
-      "sm": "cherry",
       "a": 4,
       "f": 5,
       "fa": [
         6,
-        0,
+        6,
         0,
         0,
         0,
@@ -461,28 +460,27 @@
     },
     "16\n\n\n\n\n\n\n\n\n\nshift",
     {
-      "x": 7.5,
+      "x": 7,
       "c": "#cccccc",
       "t": "#1d9cb3",
-      "sm": "",
       "a": 5,
       "f": 3,
       "fa": [
-        9
+        9,
+        6
       ],
-      "w": 1.5,
+      "w": 2,
       "d": true
     },
-    "<i class='fa fa-minus'></i>\n\n\n\nKeymap 3"
+    "<i class='fa fa-minus'></i>\nKeymap 3"
   ],
   [
     {
       "y": -0.75,
-      "x": 10.75,
+      "x": 11,
       "c": "#c5c7ca",
       "t": "#000000",
       "g": true,
-      "sm": "cherry",
       "a": 7,
       "w": 2,
       "h": 2
@@ -514,7 +512,7 @@
   [
     {
       "y": -0.5,
-      "x": 10.75,
+      "x": 11,
       "d": true
     },
     "<i class='fa fa-arrow-left'></i>",
@@ -535,7 +533,7 @@
   [
     {
       "y": -0.5,
-      "x": 9.5,
+      "x": 9.25,
       "c": "#c5c7ca",
       "f": 5,
       "fa": [
@@ -546,7 +544,7 @@
     },
     "<i class='fa fa-circle-o'></i>",
     {
-      "x": 1,
+      "x": 1.5,
       "c": "#aca693",
       "f": 3,
       "fa": [
@@ -556,7 +554,7 @@
     },
     "<i class='fa fa-arrow-down'></i>",
     {
-      "x": 11.25,
+      "x": 10.75,
       "c": "#c5c7ca",
       "f": 5,
       "fa": [
@@ -567,7 +565,7 @@
     },
     "<i class='fa fa-circle-o'></i>",
     {
-      "x": 1,
+      "x": 1.5,
       "c": "#aca693",
       "f": 3,
       "fa": [
