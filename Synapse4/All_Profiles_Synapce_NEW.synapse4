@@ -1,0 +1,13 @@
+{
+  "productId": 620,
+  "deviceName": "Razer Huntsman V2",
+  "category": "KEYBOARD",
+  "profiles": [
+    {
+      "name": "WorkProfile",
+      "payload": "eyJndWlkIjoiMGNhMmU2YTktMWJhZC00YjFlLWFmODUtNTQxMDU5OTFjN2Q1IiwibmFtZSI6IldvcmtQcm9maWxlIiwic3dpdGNoT2ZmTGlnaHRpbmciOnsiaXNEaXNwbGF5T24iOnRydWUsImlzSWRsZUVuYWJsZWQiOnRydWUsImlkbGVNaW51dGVzIjoxNX0sImJyaWdodG5lc3MiOnsiaXNFbmFibGVkIjp0cnVlLCJ2YWx1ZSI6MTAwfSwicXVpY2tFZmZlY3RzIjp7InNlbGVjdGVkRWZmZWN0SWQiOjN9LCJnYW1pbmdNb2RlIjp7InN0YXRlIjowLCJpc1dpbmRvd3NLZXlEaXNhYmxlZCI6ZmFsc2UsImlzQWx0VGFiRGlzYWJsZWQiOmZhbHNlLCJpc0FsdEY0RGlzYWJsZWQiOmZhbHNlLCJpc0dhbWVPbiI6ZmFsc2UsInNjYW5jb2RlIjoyOX0sInNuYXBUYXAiOnsiaXNFbmFibGVkIjpmYWxzZSwia2V5TGlzdCI6W3sia2V5MSI6IktFWV9BIiwia2V5MiI6IktFWV9EIiwiaWQiOjF9XX0sIm1hY3JvIjp7fSwibWFwcGluZ3MiOltdLCJwb2xsaW5nUmF0ZSI6MTAwMH0=",
+      "hash": "386e5a0efbd9c099e8ac8da75739eef1"
+    }
+  ],
+  "macros": []
+}
