@@ -1,0 +1,13 @@
+{
+  "productId": 580,
+  "deviceName": "Tartarus Pro",
+  "category": "KEYPAD",
+  "profiles": [
+    {
+      "name": "Work-Profile",
+      "payload": "eyJndWlkIjoiN2NjMWIxMmUtYjkzZC00NTNkLWIyY2YtNjBiMDNlMGM5MDhjIiwibmFtZSI6IldvcmstUHJvZmlsZSIsInN3aXRjaE9mZkxpZ2h0aW5nIjp7ImlzRGlzcGxheU9uIjp0cnVlLCJpc0lkbGVFbmFibGVkIjp0cnVlLCJpZGxlTWludXRlcyI6MX0sImJyaWdodG5lc3MiOnsiaXNFbmFibGVkIjp0cnVlLCJ2YWx1ZSI6MTAwfSwiZGlyZWN0aW9uTW9kZSI6MSwicXVpY2tFZmZlY3RzIjp7InNlbGVjdGVkRWZmZWN0SWQiOjN9LCJtYXBwaW5ncyI6W10sImtleW1hcHMiOlt7Im5hbWUiOiJLZXltYXAgMSIsImd1aWQiOiJkZWMxYmM0OS02YjI5LTRmZDgtYjIzYS02ODU0YWViMzg1MzciLCJtYXBwaW5ncyI6W10sImRwYWRNb2RlIjoxLCJzbG90IjoiMSJ9XSwic25hcFRhcCI6eyJpc0VuYWJsZWQiOmZhbHNlLCJrZXlMaXN0IjpbeyJrZXkxIjoiS0VZX0EiLCJrZXkyIjoiS0VZX0QiLCJpZCI6MX1dfSwiYWN0aXZlS2V5bWFwSWQiOiJkZWMxYmM0OS02YjI5LTRmZDgtYjIzYS02ODU0YWViMzg1MzciLCJhY3R1YXRpb25Qb2ludCI6eyIwIjoxMDUsIjEiOjEwNX19",
+      "hash": "e5cdac9237c17d2853b13b8a4304bfa2"
+    }
+  ],
+  "macros": []
+}
