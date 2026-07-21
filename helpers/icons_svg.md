@@ -1,6 +1,10 @@
-# Icons in SVG code for:
+# Icons in SVG code for KB layout:
 
 - <https://editor.keyboard-tools.xyz/>
+
+Get icons here:
+
+- <https://pictogrammers.com/library/mdi/icon/pan-down/>
 
 
 ```code
