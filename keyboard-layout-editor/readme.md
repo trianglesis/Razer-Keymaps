@@ -1,5 +1,8 @@
 Use:
 - http://www.keyboard-layout-editor.com/
+New:
+- https://editor.keyboard-tools.xyz/
+- https://github.com/adamws/kle-ng
 
 Build different layouts faster!
 
