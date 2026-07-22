@@ -1,8 +1,19 @@
 # KB tool WEB url
 
 - https://editor.keyboard-tools.xyz/
+- Load this: [JSON](keyboard-layout(3).json)
+- Icons: [helpers SVG](../helpers/icons_svg.md)
 
-Icons: [helpers SVG](../helpers/icons_svg.md)
+## Razer
+
+- [Synapse 4](Doom.synapse4)
+
+Key bindings for keyboard (default) and Tartarus
+
+- [Chroma Effects](Doom_chroma.ChromaEffects)
+
+
+## For WEB layout
 
 And full layout:
 
